@@ -570,7 +570,7 @@ export default function Index() {
         </section>
 
         {/* Trusted Partners */}
-        <section className="relative top-[650px] max-w-6xl mx-auto px-6 py-20">
+        <section className="relative top-[550px] max-w-6xl mx-auto px-6 py-20">
           <div className="pt-20">
             <h2 className="text-2xl md:text-[34px] text-white text-center mb-16">
               <span className="font-inter">Our</span>{' '}
